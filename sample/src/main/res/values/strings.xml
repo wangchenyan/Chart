@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChartSample</string>
+
+    <!--ptr-->
+    <string name="ptr_pull_to_refresh">下拉刷新</string>
+    <string name="ptr_release_to_refresh">释放立即刷新</string>
+    <string name="ptr_refreshing">正在刷新…</string>
+    <string name="ptr_refresh_succeed">刷新成功</string>
+    <string name="ptr_refresh_failed">刷新失败，请稍后再试</string>
+    <string name="ptr_pull_to_load">加载更多</string>
+    <string name="ptr_release_to_load">释放立即加载</string>
+    <string name="ptr_loading">正在加载…</string>
+    <string name="ptr_load_succeed">加载成功</string>
+    <string name="ptr_load_failed">加载失败，请稍后再试</string>
+    <string name="ptr_load_completed">没有更多了</string>
+</resources>

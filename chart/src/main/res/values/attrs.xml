@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GridChart">
+        <attr name="gcTouchable" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="LineChart">
+        <attr name="lcCurvedLine" format="boolean" />
+        <attr name="lcShowShadow" format="boolean" />
+        <attr name="lcGradientShadow" format="boolean" />
+    </declare-styleable>
+</resources>
