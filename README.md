@@ -1,7 +1,7 @@
 # Chart
 Android图表库。
 
-![]()
+![](https://raw.githubusercontent.com/wangchenyan/Chart/art/screenshot.gif)
 
 ## 支持
 * LineChart 折线/曲线图
